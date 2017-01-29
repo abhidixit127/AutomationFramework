@@ -11,3 +11,6 @@ namespace AutomationFramework
         public static string LoginLocation = "";
     }
 }
+
+
+//  to commit code to github from VS, install git for windows
